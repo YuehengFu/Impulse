@@ -1,6 +1,5 @@
 # IMPULSE GAME
 
-
-Consider using **Markdown** syntax to format the text in this file. [Markdown basics](https://www.markdownguide.org/getting-started/)
-
+Welcome to Impulse! This game is made entirely from scratch ( with the assistance of the Greenfoot library) from Java. 
+All art and code is made 100% by me.
 
